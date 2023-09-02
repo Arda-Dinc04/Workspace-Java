@@ -1,0 +1,6 @@
+Sorting 10 elements took: 0ms
+Sorting 100 elements took: 0ms
+Sorting 1000 elements took: 1ms
+Sorting 10000 elements took: 24ms
+Sorting 100000 elements took: 608ms
+Sorting 1000000 elements took: 56956ms

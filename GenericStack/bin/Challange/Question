@@ -1,0 +1,11 @@
+Design a stack that supports getMin() in O(1) time
+
+Design a Data Structure SpecialStack that supports all the stack operations like push(), pop(), isEmpty(), isFull() and an additional 
+operation getMin() which should return minimum element from the SpecialStack. All these operations of SpecialStack must have a time 
+complexity of O(1). Note: To implement SpecialStack, you should only use standard Stack data structure and no other data structure 
+like arrays, lists, etc
+
+6 1 4 2 7 3
+
+//  -> 4 -> 1 -> 6 -> null
+// 1 -> 6 -> null
